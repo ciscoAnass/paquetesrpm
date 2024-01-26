@@ -1,8 +1,1 @@
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=A-nV1o_IBmk&t=367s" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=A-nV1o_IBmk&t=367s"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zdAeWlD2vS4?si=MQFCDTxZ4knQ0UG6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
