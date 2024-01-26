@@ -40,4 +40,3 @@ Rocky Linux es una distribución comunitaria de Linux diseñada para ofrecer est
 - [Documentación Oficial](https://docs.rockylinux.org/)
 - [Foros de la Comunidad](https://forums.rockylinux.org/)
 
-Descubre más sobre Rocky Linux y únete a la comunidad para aprovechar esta distribución robusta y confiable.
