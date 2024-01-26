@@ -1,16 +1,16 @@
 # Paquetes RPM
 
 ***
-![logo](/img/establecer-conservacion-ecologica-proteccion-medio-ambiente_24877-53676.avif)
+![logo](/img/)
 
 
 # Indice
 ***
 
-## [La contaminación ambienta ](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/La-contaminaci%C3%B3n-ambienta.md)
-## [Residuos informáticos](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/Residuos-informaticos.md)
-## [informática ecológica](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/infromatica-ecologica.md)
-## [La obsolescencia programada](https://github.com/ciscoAnass/Proteccion-mediambiental/blob/main/obsolescencia.md)
+## [1- Introduccion ](https://github.com/ciscoAnass/paquetesrpm/blob/main/Introduccion.md)
+## [2- Distribución Rocky Linux](https://github.com/ciscoAnass/paquetesrpm/blob/main/Distribucion%20Rocky%20Linux.md)
+## [3- Repositorios](https://github.com/ciscoAnass/paquetesrpm/blob/main/Repositorios.md)
+## [4- Caso práctico](https://github.com/ciscoAnass/paquetesrpm/blob/main/Caso%20practico.md)
 
 
 ***
@@ -21,11 +21,10 @@
 ***
 
 
-# Autores
+# Autor
 ***
 
 ## [Anass Assim](https://github.com/ciscoAnass)
-## [Arturo Kronos Fernández Curiel](https://github.com/ArturoKronos)
-## [Iván Palma Sierra](https://github.com/Ivanps1709)
 
 ***
+
