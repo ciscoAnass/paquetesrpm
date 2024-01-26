@@ -25,17 +25,3 @@ Los paquetes RPM son utilizados principalmente en distribuciones Linux que utili
 
 3. **Actualizaciones y Parches:** Permite la actualización sencilla del software a versiones más recientes y la aplicación de parches de seguridad.
 
-## Comandos Básicos de RPM
-
-A continuación, algunos comandos básicos para trabajar con paquetes RPM:
-
-```bash
-# Instalar un paquete RPM
-sudo rpm -ivh nombre-del-paquete.rpm
-
-# Desinstalar un paquete RPM
-sudo rpm -e nombre-del-paquete
-
-# Verificar la información de un paquete RPM instalado
-rpm -qi nombre-del-paquete
-
