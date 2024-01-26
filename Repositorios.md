@@ -9,3 +9,7 @@ Los repositorios oficiales de Rocky Linux están configurados en archivos dentro
 
 ```bash
 /etc/yum.repos.d/
+
+
+***
+https://www.youtube.com/watch?v=A-nV1o_IBmk&t=367s
