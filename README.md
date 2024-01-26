@@ -1,7 +1,7 @@
 # Paquetes RPM
 
 ***
-![logo](/img/)
+![logo](/img/rpm.png)
 
 
 # Indice
