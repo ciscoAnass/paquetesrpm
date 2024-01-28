@@ -5,24 +5,24 @@
 ```
 dnf update
 ```
-  2-  Buscar el paquete **Nano**
+  2-  Buscar por un paquete 
 ```
-dnf search nano
+dnf search [Nombre_de_paquete]
 ```
   
-  3-  Instalar el paquete **Nano**
+  3-  Instalar un paquete 
   
   ```
-dnf install nano
+dnf install [Nombre_de_paquete]
 ```
-  4-  Comprobar si el **Nano** ha instalado.
+  4-  Comprobar si el paquete ha instalado.
   ```
-sudo dnf info nano
+sudo dnf info [Nombre_de_paquete]
 ```
   
-  5-  Desinstalar el paquete **NANO**
+  5-  Desinstalar el paquete
 ```
-dnf remove nano
+dnf remove [Nombre_de_paquete]
 ```
   ***
   # Video
