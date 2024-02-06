@@ -26,8 +26,7 @@ dnf remove [Nombre_de_paquete]
 ```
   ***
   # Video
-
-https://github.com/ciscoAnass/paquetesrpm/assets/143201579/5fa57639-7cd7-4264-9f30-0e7874221722
+https://github.com/ciscoAnass/paquetesrpm/assets/143201579/ff7b3587-2953-4648-8808-3ea8f8e8d226
 
 
 - Para mejor calidad, se puede ver el vídeo aquí : https://www.youtube.com/watch?v=zdAeWlD2vS4
