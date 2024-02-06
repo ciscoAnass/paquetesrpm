@@ -29,4 +29,4 @@ dnf remove [Nombre_de_paquete]
 https://github.com/ciscoAnass/paquetesrpm/assets/143201579/ff7b3587-2953-4648-8808-3ea8f8e8d226
 
 
-- Para mejor calidad, se puede ver el vídeo aquí : https://www.youtube.com/watch?v=zdAeWlD2vS4
+- Para mejor calidad, se puede ver el vídeo aquí : https://www.youtube.com/watch?v=w9WlgPUXNVk
